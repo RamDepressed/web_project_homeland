@@ -1,0 +1,53 @@
+.main {
+  max-width: 830px;
+  margin-left: 148px;
+}
+.main__title {
+  margin-top: 0;
+  max-width: 830px;
+  font-family: "Inter", sans-serif;
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 58px;
+  text-align: left;
+}
+.main__subtitle {
+  margin-top: 0;
+  margin-right: 92px;
+  margin-bottom: 10px;
+  max-width: 738px;
+  font-family: "Inter", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  text-align: left;
+}
+.main__subtitle__author {
+  margin-top: 0;
+  margin-bottom: 31.99px;
+  max-width: 732px;
+  font-family: "Inter", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  text-align: right;
+}
+.main__description {
+  max-width: 722px;
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.6;
+  text-align: left;
+}
+@media screen and (max-width: 768px) {
+  .page {
+    padding-top: 30px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .page {
+    padding-top: 20px;
+  }
+}
