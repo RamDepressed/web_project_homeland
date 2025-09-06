@@ -8,7 +8,6 @@
   max-width: 255px;
   margin-top: 34px;
   margin-bottom: 91px;
-  display: block;
 }
 .header__title {
   font-size: 96px;
@@ -27,7 +26,6 @@
   line-height: 1.2;
 }
 .header__image {
-  display: block;
   justify-content: center;
   max-width: 984px;
   max-height: 615px;
