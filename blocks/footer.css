@@ -4,6 +4,12 @@
   margin-top: 92px;
   padding-bottom: 24px;
 }
+.footer__copyright {
+  max-width: 194px;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+}
 @media screen and (max-width: 768px) {
   .footer {
     max-width: 194px;
